@@ -93,6 +93,8 @@ Testes:
 
 (fotos e capturas de tela realizadas durante o laboratório)
 
+---
+
 ## 6. Conclusão
 
 Este laboratório permitiu compreender o funcionamento e uma rede local simples, incluindo:
